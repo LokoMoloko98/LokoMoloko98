@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Moloko Mokubedi.
 
-- 🔭 I’m currently working on a tool to cluster tweet locations.
+- 🔭 I’m currently working on a tool that determine visualizes tweet-user locations.
 - 🌱 I’m currently learning Cloud Computing.
 - 👯 I’m looking to collaborate on computer vision, location-based service and remote sensing technology projects.
 - 🤔 I’m looking for help with employment opportunities.
