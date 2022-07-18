@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on computer vision, location-based service and remote sensing technology projects.
 - 🤔 I’m looking for help with employment opportunities.
 - 💬 Ask me about Geomatics, Python and OpenCV.
-- 📫 How to reach me: mkbmol006@myuct.ac.za
+- 📫 How to reach me: molavovic@gmail.com
 - ⚡ Fun fact: I'm a human being
