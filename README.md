@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I'm a human being.
 
 
-![Moloko M. Mokubedi](Moloko Professional Logo Transparent White.png)
+![Moloko M. Mokubedi](Moloko-Professional-Logo-Grey-Background.jpg)
