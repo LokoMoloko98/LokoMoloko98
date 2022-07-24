@@ -8,5 +8,4 @@
 - 📫 How to reach me: molavovic@gmail.com
 - ⚡ Fun fact: I'm a human being.
 
-
-![Moloko M. Mokubedi](Moloko-Professional-Logo-Grey-Background.jpg)
+<img src="Moloko-Professional-Logo-Grey-Background.jpg" align="middle" width="500" height="500">
