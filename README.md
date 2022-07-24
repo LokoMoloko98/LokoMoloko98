@@ -1,5 +1,7 @@
 ### Hi there 👋, My name is Moloko Mokubedi.
 
+<img src="Moloko-Professional-Logo-Grey-Background.jpg" align="middle">
+
 - 🔭 I’m currently working on a tool that tracks the location and progress of Gautrain Buses along their service routes.
 - 🌱 I’m currently learning Cloud Computing, Data Analytics and Machine Leartning.
 - 👯 I’m looking to collaborate on: geospatial projects, Amazon Web Services (AWS) or Microsoft Azure Services cloud-first/cloud-native and Data Analytics projects.
@@ -8,4 +10,4 @@
 - 📫 How to reach me: molavovic@gmail.com
 - ⚡ Fun fact: I'm a human being.
 
-<img src="Moloko-Professional-Logo-Grey-Background.jpg" align="middle" width="500" height="500">
+
