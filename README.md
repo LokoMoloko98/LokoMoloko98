@@ -7,3 +7,6 @@
 - 💬 Ask me about Python, Cloud Computing, AWS, Azure, Data management processes.
 - 📫 How to reach me: molavovic@gmail.com
 - ⚡ Fun fact: I'm a human being.
+
+
+![Moloko M. Mokubedi](/Moloko Professional Logo Grey Background.jpg)
