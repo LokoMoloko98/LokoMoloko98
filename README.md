@@ -7,4 +7,4 @@
 - 📫 How to reach me: molavovic@gmail.com
 - ⚡ Fun fact: I'm a human being.
 
-<img src="Moloko-Professional-Logo-Grey-Background.jpg" align="middle" height="300px" width="300px">
+<img src="Moloko-Professional-Logo-Grey-Background.jpg" align="center" height="300px" width="300px">
