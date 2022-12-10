@@ -8,5 +8,5 @@
 - ⚡ Fun fact: I'm a human being.
 
 <div align="center">
-<img src="Moloko-Professional-Logo-Grey-Background.jpg" height="300px" width="300px">
+<img src="1607075060476.jpeg" height="200px" width="200px">
 </div?
