@@ -6,9 +6,9 @@
   </div>
   <div align="left">
     <p>◉ 🔭 I’m currently working on my personal website and an elevation kriging app.</p>
-    <p>◉ 🌱 I’m currently learning Terraform, Docker, Kubernetes and AWS IaC.</p>
-    <p>◉ 👯 I’m looking to collaborate on: Amazon Web Services, cloud-first/cloud-native and DevOps projects.</p>
-    <p>◉ 💬 Ask me about Python, Cloud Computing, AWS, DevOps, Linux and Git.</p>
+    <p>◉ 🌱 I’m currently learning Terraform and AWS IaC.</p>
+    <p>◉ 👯 I’m looking to collaborate on: Amazon Web Services, cloud-first/cloud-native projects.</p>
+    <p>◉ 💬 Ask me about Python, Cloud Computing, AWS and Linux.</p>
     <p>◉ 📫 How to reach me: molavovic@gmail.com</p>
     <p>◉ ⚡ Fun fact: I'm a human being.</p>
    </div>
