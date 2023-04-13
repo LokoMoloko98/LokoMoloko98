@@ -9,7 +9,7 @@
     <p>◉ 🌱 I’m currently learning Terraform and AWS IaC.</p>
     <p>◉ 👯 I’m looking to collaborate on: Amazon Web Services, cloud-first/cloud-native projects.</p>
     <p>◉ 💬 Ask me about Python, Cloud Computing, AWS and Linux.</p>
-    <p>◉ 📫 How to reach me: molavovic@gmail.com</p>
+    <p>◉ 📫 How to reach me: communication@moloko-mokubedi.co.za</p>
     <p>◉ ⚡ Fun fact: I'm a human being.</p>
    </div>
 </div>
