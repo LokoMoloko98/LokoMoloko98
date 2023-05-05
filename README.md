@@ -5,7 +5,7 @@
     <p>..............................</p>
   </div>
   <div align="left">
-    <p>◉ 🔭 I’m currently working on a multi-tenant saas infrastructure iac template.</p>
+    <p>◉ 🔭 I’m currently working on a multi-tenant SaaS IaC template.</p>
     <p>◉ 🌱 I’m currently learning Docker, Terraform and AWS IaC.</p>
     <p>◉ 👯 I’m looking to collaborate on: Amazon Web Services, cloud-first/cloud-native projects.</p>
     <p>◉ 💬 Ask me about Python, Cloud Computing, AWS and Linux.</p>
