@@ -5,11 +5,11 @@
     <p>..............................</p>
   </div>
   <div align="left">
-    <p>◉ 🔭 I’m currently working on my personal website and an elevation kriging app.</p>
-    <p>◉ 🌱 I’m currently learning Terraform and AWS IaC.</p>
+    <p>◉ 🔭 I’m currently working on a multi-tenant saas infrastructure iac template.</p>
+    <p>◉ 🌱 I’m currently learning Docker, Terraform and AWS IaC.</p>
     <p>◉ 👯 I’m looking to collaborate on: Amazon Web Services, cloud-first/cloud-native projects.</p>
     <p>◉ 💬 Ask me about Python, Cloud Computing, AWS and Linux.</p>
     <p>◉ 📫 How to reach me: communication@moloko-mokubedi.co.za</p>
-    <p>◉ ⚡ Fun fact: I'm a human being.</p>
+    <p>◉ ⚡ Fun fact: I used to work for a circus.</p>
    </div>
 </div>
