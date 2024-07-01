@@ -1,6 +1,5 @@
 <div align="center">
 <h3> Hi there 👋, My name is Moloko Mokubedi. </h3>
-<img src="1675002123086.jpeg" height="100px" width="100px">
   <div>
     <p>..............................</p>
   </div>
