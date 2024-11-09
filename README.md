@@ -9,9 +9,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LokoMoloko98" alt="LokoMoloko98" /></a> </p>
   <div align="left">
     <p>◉ 🔭 I’m currently working on ..........</p>
-    <p>◉ 🌱 I’m currently learning SysOps Administration and Kubernetes and Jenkins.</p>
-    <p>◉ 👯 I’m looking to collaborate on: Amazon Web Services, cloud-first/cloud-native projects.</p>
-    <p>◉ 💬 Ask me about Docker, AWS and Terraform, Infrastructure-as-Code</p>
+    <p>◉ 🌱 I’m currently learning Kubernetes and Geonode.</p>
+    <p>◉ 👯 I’m looking to collaborate on: Amazon Web Services.</p>
+    <p>◉ 💬 Ask me about Docker, AWS and Terraform</p>
     <p>◉ 📫 How to reach me: communication@moloko-mokubedi.co.za</p>
     <p>◉ ⚡ Fun fact: I'm a geomatician in training</p>
    </div>
